@@ -1,0 +1,12 @@
+{
+  "name": "morning-pos",
+  "version": "1.0.0",
+  "description": "MorningPOS free POS, for commercial use only.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm run --parallel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
